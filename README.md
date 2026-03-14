@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Manuel
 
-I'm a Web Developer 🖥️ focused on building modern, responsive, and maintainable web applications.  
+I'm a Developer 🖥️ focused on building modern, responsive, and maintainable web applications.  
 I work mainly with React and Next.js, and I have experience modernizing existing websites and creating new platforms from scratch.
 
 👨‍💻 I’m currently studying Software Development and working on web projects using modern frontend technologies.
@@ -8,7 +8,7 @@ I work mainly with React and Next.js, and I have experience modernizing existing
 📫 How to reach me  
 **Email:** rmanuelorrego@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/manuel-fernando-rendon-orrego-752a7b27a
-
+**Portfolio:** portafolio-manolinhopng.vercel.app
 ---
 
 ### Languages and Tools:
