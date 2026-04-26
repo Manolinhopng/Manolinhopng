@@ -12,7 +12,7 @@ I work mainly with React and Next.js, and I have experience modernizing existing
 ---
 
 ### Languages and Tools:
-<p align="left">
+<p align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
